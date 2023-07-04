@@ -1,9 +1,6 @@
 
-
-
 import GameWindow from "@components/GameWindow"
 import Steps from "@components/Steps"
-
 
 const GamePage = () => {
 
