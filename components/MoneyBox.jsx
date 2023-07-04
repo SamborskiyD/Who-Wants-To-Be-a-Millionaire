@@ -1,7 +1,7 @@
 'use client'
 
 import box from "@styles/moneyBox.module.css"
-import { useSelector } from "react-redux/es/hooks/useSelector"
+import { useSelector } from "react-redux"
 import { useState, useEffect } from "react"
 
 const MoneyBox = ({text, id}) => {
