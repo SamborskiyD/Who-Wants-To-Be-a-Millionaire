@@ -2,7 +2,6 @@
 
 import AnsverButton from "./AnsverButton"
 import window from "@styles/gameWindow.module.css"
-import button from "@styles/ansverButton.module.css"
 
 import { useSelector } from "react-redux/es/hooks/useSelector"
 import { useDispatch } from "react-redux"
