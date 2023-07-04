@@ -1,8 +1,7 @@
 'use client'
 
 import button from "@styles/ansverButton.module.css"
-import { useDispatch } from "react-redux"
-import { useSelector } from "react-redux/es/hooks/useSelector"
+import { useDispatch, useSelector } from "react-redux"
 import { enterAnsver } from "@store/questionSlice"
 import { useEffect, useState } from "react"
 

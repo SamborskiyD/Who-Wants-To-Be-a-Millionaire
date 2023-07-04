@@ -3,8 +3,7 @@
 import AnsverButton from "./AnsverButton"
 import window from "@styles/gameWindow.module.css"
 
-import { useSelector } from "react-redux/es/hooks/useSelector"
-import { useDispatch } from "react-redux"
+import { useDispatch, useSelector } from "react-redux"
 import { useEffect } from "react"
 import { nextQuestion, lastQuestion } from "@store/questionSlice"
 import { useRouter } from "next/navigation"
