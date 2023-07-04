@@ -1,3 +1,4 @@
+'use client'
 
 import button from "@styles/ansverButton.module.css"
 import { useDispatch } from "react-redux"

@@ -1,3 +1,4 @@
+'use client'
 
 import box from "@styles/moneyBox.module.css"
 import { useSelector } from "react-redux/es/hooks/useSelector"
