@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "text": "What is OpenAI?",
+      "ansverVariants": [
+        "A chatbot manufacturer",
+        "An artificial intelligence corporation",
+        "An airport in San Francisco",
+        "A website with free tutorials"
+      ],
+      "correctVariant": 1,
+      "prize": "$100"
+    },
+    {
+      "text": "What is the capital of France?",
+      "ansverVariants": [
+        "London",
+        "Paris",
+        "Rome",
+        "Berlin"
+      ],
+      "correctVariant": 1,
+      "prize": "$200"
+    },
+    {
+      "text": "What is the scientific branch that studies birds called?",
+      "ansverVariants": [
+        "Ornithology",
+        "Entomology",
+        "Botany",
+        "Zoology"
+      ],
+      "correctVariant": 0,
+      "prize": "$300"
+    },
+    {
+      "text": "Which chemical substance has the formula H2O?",
+      "ansverVariants": [
+        "Baking soda",
+        "Salt",
+        "Water",
+        "Ammonia"
+      ],
+      "correctVariant": 2,
+      "prize": "$500"
+    },
+    {
+      "text": "What is the name of the author of the 'Harry Potter' book series?",
+      "ansverVariants": [
+        "J.R.R. Tolkien",
+        "George Orwell",
+        "J.K. Rowling",
+        "George Martin"
+      ],
+      "correctVariant": 2,
+      "prize": "$1,000"
+    },
+    {
+      "text": "In which year did the French Revolution take place?",
+      "ansverVariants": [
+        "1776",
+        "1789",
+        "1848",
+        "1917"
+      ],
+      "correctVariant": 1,
+      "prize": "$2,000"
+    },
+    {
+      "text": "What is the capital city of Japan?",
+      "ansverVariants": [
+        "Tokyo",
+        "Kyoto",
+        "Osaka",
+        "Sapporo"
+      ],
+      "correctVariant": 0,
+      "prize": "$5,000"
+    },
+    {
+      "text": "Who wrote the novel 'War and Peace'?",
+      "ansverVariants": [
+        "Nikolai Gogol",
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Ivan Turgenev"
+      ],
+      "correctVariant": 2,
+      "prize": "$10,000"
+    },
+    {
+      "text": "What is the largest planet in the Solar System?",
+      "ansverVariants": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correctVariant": 2,
+      "prize": "$20,000"
+    },
+    {
+      "text": "Who is depicted on the largest American banknote?",
+      "ansverVariants": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Benjamin Franklin",
+        "Andrew Jackson"
+      ],
+      "correctVariant": 2,
+      "prize": "$50,000"
+    },
+    {
+      "text": "What is the process of transforming a liquid into a gas called?",
+      "ansverVariants": [
+        "Evaporation",
+        "Condensation",
+        "Crystallization",
+        "Incineration"
+      ],
+      "correctVariant": 0,
+      "prize": "$100,000"
+    },
+    {
+      "text": "Which chemical element has the symbol 'Fe'?",
+      "ansverVariants": [
+        "Fluorine",
+        "Phosphorus",
+        "Iron",
+        "Francium"
+      ],
+      "correctVariant": 2,
+      "prize": "$250,000"
+    },
+    {
+      "text": "In which country is Machu Picchu located?",
+      "ansverVariants": [
+        "Brazil",
+        "Peru",
+        "Colombia",
+        "Mexico"
+      ],
+      "correctVariant": 1,
+      "prize": "$500,000"
+    }
+  ]
+}

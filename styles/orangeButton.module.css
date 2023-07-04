@@ -1,0 +1,40 @@
+
+.orangeButton{
+    display: block;
+    background-color: #FF8B37;
+    border-radius: 12px;
+    padding: 20px 24px;
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 1.16em;
+    font-weight: 600;
+    text-decoration: none;
+    max-width: 296px;
+    width: 100%;
+    text-align: center;
+    transition: all ease 0.25s;
+}
+
+.orangeButton:hover{
+    background-color: #FFAC70;
+}
+
+.orangeButton:active{
+    background-color: #E87928;
+}
+
+@media(min-width: 1441px){
+    .orangeButton{
+        max-width: 360px;
+        font-size: 26px;
+        padding: 24px 24px;
+    }
+}
+
+@media(max-width: 425px){
+    .orangeButton{
+        max-width: none;
+        padding: 16px 24px;
+        font-size: 14px;
+    }
+}

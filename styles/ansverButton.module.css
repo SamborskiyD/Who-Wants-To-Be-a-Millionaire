@@ -1,0 +1,91 @@
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border-radius: 10px;
+    padding: 24px 20px;
+    width: 100%;
+    max-width: 380px;
+    text-align: center;
+    border: 1px solid;
+    background-color: #FFFFFF;
+    border-color: #D0D0D8;
+}
+
+.variant{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.16em;
+    color: #FF8B37;
+    margin-right: 10px;
+}
+.text{
+    font-size: 20px;
+    line-height: 1.16em;
+    margin: 0;
+    text-align: left;
+}
+.line{
+    width: 20px;
+    height: 1px;
+    border-top: 1px solid;
+    border-color: #D0D0D8;
+}
+
+.ansverButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 420px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.ansverButton.correct .content, .ansverButton.correct .line, .ansverButton.correct:hover .content, .ansverButton.correct:hover .line{
+    border-color: #47D867;
+    background-color: #E6FAEA;
+
+}
+
+.ansverButton.wrong .content, .ansverButton.wrong .line, .ansverButton.wrong:hover .content, .ansverButton.wrong:hover .line{
+    border-color: #EC6259;
+    background-color: #FDEEED;
+
+}
+
+.ansverButton:hover .content, .ansverButton:hover .line{
+    border-color: #FF8B37;
+    background-color: #FFFFFF;
+}
+
+.ansverButton.selected .content, .ansverButton.selected .line{
+    border-color: #FF8B37;
+    background-color: #FFF3EB;
+}
+
+
+@media(max-width: 768px){
+    .ansverButton{
+        max-width: none;
+    }
+    .line{
+        width: 20%;
+    }
+    .content{
+        max-width: none;
+        padding: 20px;
+    }
+    .variant, .text{
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 425px){
+    .line{
+        max-width: 16px;
+    }
+    .variant, .text{
+        font-size: 14px;
+    }
+}
