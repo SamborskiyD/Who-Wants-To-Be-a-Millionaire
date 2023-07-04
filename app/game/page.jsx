@@ -1,3 +1,4 @@
+'use client'
 
 import GameWindow from "@components/GameWindow"
 import Steps from "@components/Steps"

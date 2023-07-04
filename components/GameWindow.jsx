@@ -1,4 +1,3 @@
-'use client'
 
 import AnsverButton from "./AnsverButton"
 import window from "@styles/gameWindow.module.css"
