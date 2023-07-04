@@ -1,4 +1,4 @@
-'use client'
+
 
 
 import GameWindow from "@components/GameWindow"

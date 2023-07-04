@@ -1,4 +1,4 @@
-"use client"
+
 
 import MoneyBox from "./MoneyBox"
 import steps from "@styles/steps.module.css"
